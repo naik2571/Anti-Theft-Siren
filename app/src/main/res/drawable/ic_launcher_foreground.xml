@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Emergency Siren Housing -->
+    <path
+        android:fillColor="#EF4444"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M54,20 L30,34 L30,58 C30,74 40,86 54,90 C68,86 78,74 78,58 L78,34 Z" />
+    <!-- Blazing Lightning Bolt -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M55,34 L43,54 L53,54 L48,72 L67,50 L57,50 Z" />
+    <!-- Siren Strobe Rings -->
+    <path
+        android:strokeColor="#F87171"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M22,46 A36,36 0 0,1 26,34 M86,46 A36,36 0 0,0 82,34" />
+</vector>
